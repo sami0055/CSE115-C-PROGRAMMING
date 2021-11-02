@@ -1,0 +1,4 @@
+ sami New price: 24
+ mi New price: 12
+Book Name: sami
+Book Name: mi

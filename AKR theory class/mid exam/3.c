@@ -1,0 +1,6 @@
+
+main()
+{
+    int inc,tax;
+
+}
